@@ -1,8 +1,12 @@
 # JPsi
 CMSSW user code of Jan Veverka with packages originally intended for the J/psi
-analysis of the first LHC data in 2010. The JPsi/MuMu package contains
+analysis of the first LHC data in 2010.
+
+The JPsi/MuMu package contains
 code for the PHOSPHOR fit - photon energy scale and resolution calibration
 using Z -> mu mu gamma events.
+
+There is also lot of old unused code and scripts around.
 
 ## History
 These CMSSW packages were imported from the retired CVS
