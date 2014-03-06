@@ -531,6 +531,7 @@ author_transforms={
     # the original author, as explained above.
     'cvs2git' : 'Jan Veverka <jan.veverka@gmail.com>',
     'veverka' : 'Jan Veverka <jan.veverka@gmail.com>',
+    'cpena' : 'Cristian Pena <cristian.pena@caltech.edu>'
     }
 
 # This is the main option that causes cvs2git to output to a
